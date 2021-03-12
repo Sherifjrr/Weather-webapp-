@@ -7,3 +7,5 @@ Creating a weather journal app that use API to get the data
 then get the zip code from the user to return the weather information 
 with a simple UI interface  
 
+# Runtime Environment 
+ Node.js
